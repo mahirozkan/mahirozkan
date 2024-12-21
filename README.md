@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning C# and SQL<br>💬 Ask me about anything<br>⚡ Fun fact I'm a mechanical engineer
+🌱 I’m currently learning .NET<br>💬 Ask me about anything<br>⚡ Fun fact I'm a mechanical engineer
 
 
 ## 🌐 Socials:
